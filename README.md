@@ -1,3 +1,3 @@
 # Operating System
 ## Process
-- **Process:** 
+- **Process:** A process is a program in execution.
