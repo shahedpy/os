@@ -1,11 +1,6 @@
 # Operating System
-## Process
-- **Process:** A process is a program in execution.
-
-
-# Chapter 3: Processes
-
 ## Process Concept
+- **Process:** A process is a program in execution.
 - An operating system executes a variety of programs:
   - **Batch system:** Processes jobs in batches without user interaction.
   - **Time-shared system:** Allows multiple users to interact with the system simultaneously.
@@ -98,4 +93,3 @@ Contains information such as:
 - **Windows:** Local Procedure Calls (LPC) for IPC.
 
 ---
-*End of Chapter 3*
