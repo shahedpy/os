@@ -1,5 +1,5 @@
 # Operating System
-## Process Concept
+## Process
 - **Process:** A process is a program in execution.
 - An operating system executes a variety of programs:
   - **Batch system:** Processes jobs in batches without user interaction.
