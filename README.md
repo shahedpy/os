@@ -1,5 +1,19 @@
 # Operating System
 An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs. It acts as an intermediary between users and the computer hardware. Operating systems are essential for running applications and managing system resources like memory, processing power, and storage.
+
+## Types of Operating System
+1. Batch Operating System
+2. Time-Sharing Operating System
+3. Real-Time Operating System
+4. Distributed Operating System
+5. Network Operating System
+6. Embedded Operating System
+7. Mobile Operating System
+8. Multiprogramming Operating System
+9. Multiprocessing Operating System
+10. Single-User Operating System
+11. Multi-User Operating System
+
 ## Processes
 - **Process:** A process is a program in execution.
 - An operating system executes a variety of programs:
