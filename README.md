@@ -1,4 +1,5 @@
 # Operating System
+An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs. It acts as an intermediary between users and the computer hardware. Operating systems are essential for running applications and managing system resources like memory, processing power, and storage.
 ## Processes
 - **Process:** A process is a program in execution.
 - An operating system executes a variety of programs:
