@@ -7,7 +7,7 @@ Deadlock can arise if four conditions hold simultaneously.
 - **Circular wait:**  there exists a set {P0, P1, …, Pn} of waiting processes such that P0 is waiting for a resource that is held by P1, P1 is waiting for a resource that is held by P2, …, Pn–1 is waiting for a resource that is held by Pn, and Pn is waiting for a resource that is held by P0.
 ## Deadlock Prevention
 Restrain the ways request can be made
-- **Mutual Exclusion** not required for sharable resources (e.g., read-only files); must hold for non-sharable resources
-- **Hold and Wait** – must guarantee that whenever a process requests a resource, it does not hold any other resources
+- **Mutual Exclusion:** not required for sharable resources (e.g., read-only files); must hold for non-sharable resources
+- **Hold and Wait:** must guarantee that whenever a process requests a resource, it does not hold any other resources
 
 
